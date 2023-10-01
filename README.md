@@ -19,6 +19,8 @@ Trying to rely more on existing tools this time to reduce customization in confi
 - [Starship](https://starship.rs/)
 - [Oh my tmux!](https://github.com/gpakosz/.tmux) (as a submodule)
 - [wl-clipboard](https://github.com/bugaevc/wl-clipboard) (for Wayland DE)
+- [fisher](https://github.com/jorgebucaran/fisher) fish plugin manager
+- [bass](https://github.com/edc/bass) bash utilities wrapper for fish
 
 ## Installation
 
